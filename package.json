@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/yehen229/learnTS/issues"
   },
-  "homepage": "https://github.com/yehen229/learnTS#readme"
+  "homepage": "https://github.com/yehen229/learnTS#readme",
+  "dependencies": {
+    "typescript": "^4.8.3"
+  }
 }
