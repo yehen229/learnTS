@@ -1,0 +1,22 @@
+{
+  "name": "learnts",
+  "version": "1.0.0",
+  "description": "learn typescirpt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yehen229/learnTS.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "yehen229",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yehen229/learnTS/issues"
+  },
+  "homepage": "https://github.com/yehen229/learnTS#readme"
+}
